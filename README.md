@@ -17,7 +17,7 @@ Inspired by a passion for merging technology and healthcare, my journey is fuele
   - REST API
 
 - **Build Tools**:
-  - Parcel/Webpack
+  - Vite/Parcel/Webpack
 
 - **Backend**:
   - Node.js
