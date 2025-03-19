@@ -26,6 +26,9 @@ Inspired by a passion for merging technology and healthcare, my journey is fuele
   - WordPress
   - PHP
 
+- **API Documentation**:
+  - Swagger
+    
 - **Version Control**:
   - Git
 
