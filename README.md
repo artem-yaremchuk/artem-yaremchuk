@@ -50,6 +50,7 @@ Inspired by a passion for merging technology and healthcare, my journey is fuele
 
 ### 📄 **API Documentation**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
 </div>
 
