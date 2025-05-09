@@ -1,10 +1,6 @@
 # Hello, I'm Artem Yaremchuk! 👋
 
-Welcome to my GitHub profile! I'm a Junior Full Stack Developer with a background in biotechnology, bringing a unique perspective and strong domain expertise in healthcare, fitness, and rehabilitation. I'm passionate about contributing my skills to meaningful healthcare projects, developing solutions that are not only technologically advanced but also deeply rooted in real-world health. Also open to opportunities in other industries where technology makes a real impact.
-
-## 👨‍💻 About Me
-
-Inspired by a passion for merging technology and healthcare, my journey is fueled by a desire to create innovative solutions that improve health outcomes and enhance quality of life.
+Welcome to my GitHub profile! I'm a Full Stack Developer with a strong background in biotechnology and domain expertise in healthcare, fitness, and rehabilitation. Passionate about building impactful, real-world tech solutions and open to meaningful opportunities across industries.
 
 ## 🚀 Technologies and Skills
 
