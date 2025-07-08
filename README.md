@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a strong backgroun
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" />
@@ -42,6 +43,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a strong backgroun
   <img src="https://img.shields.io/badge/Multer-007ACC?style=flat&logo=multer&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-FFC300?style=flat&logo=cloudinary&logoColor=black" />
   <img src="https://img.shields.io/badge/Nodemailer-2E3A3A?style=flat&logo=nodemailer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 </div>
 
 ### 📄 **API Documentation**  
