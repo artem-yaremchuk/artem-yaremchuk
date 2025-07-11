@@ -1,6 +1,7 @@
 # Hello, I'm Artem Yaremchuk! 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with a strong background in biotechnology and domain expertise in healthcare. Passionate about building impactful, real-world tech solutions and open to meaningful opportunities across industries.
+Welcome to my GitHub profile!  
+I'm a Full Stack Developer passionate about building impactful, real-world tech solutions and always open to meaningful opportunities across industries.
 
 ## 🚀 Technologies and Skills
 
@@ -37,6 +38,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a strong backgroun
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-yellow?style=flat&logo=bcrypt&logoColor=black" />
@@ -89,4 +92,4 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a strong backgroun
 
 ---
 
-Thank you for visiting my profile! I'm always open to discussing new projects and collaborations, especially those that can make a positive impact in the healthcare industry. Feel free to reach out!
+Thanks for visiting my profile!
