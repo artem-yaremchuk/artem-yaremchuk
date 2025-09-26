@@ -38,9 +38,10 @@ I'm a Full Stack Developer passionate about building impactful, real-world tech 
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-yellow?style=flat&logo=bcrypt&logoColor=black" />
   <img src="https://img.shields.io/badge/Multer-007ACC?style=flat&logo=multer&logoColor=white" />
