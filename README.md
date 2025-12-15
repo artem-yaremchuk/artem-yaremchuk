@@ -43,7 +43,6 @@ I'm a Full Stack Developer passionate about building impactful, real-world tech 
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-yellow?style=flat&logo=bcrypt&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20SDK-232F3E?style=flat&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-333333?style=flat&logo=socket.io&logoColor=white" />
