@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I'm a Full Stack Developer passionate about building impactful, real-world tech solutions and always open to meaningful opportunities across industries.
 
-## 🚀 Technologies and Skills
+## Technologies and Skills
 
 ### 🖥️ **Frontend**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -31,7 +31,7 @@ I'm a Full Stack Developer passionate about building impactful, real-world tech 
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" />
 </div>
 
-### 🧪 **Backend**  
+### 🧩 **Backend**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
@@ -85,7 +85,7 @@ I'm a Full Stack Developer passionate about building impactful, real-world tech 
   <img src="https://img.shields.io/badge/PHP-777BB3?style=flat&logo=php&logoColor=white" />
 </div>
 
-## 📄 Get in Touch
+## Get in Touch
 
 - Email: [artem.yaremchuk@yahoo.com](mailto:artem.yaremchuk@yahoo.com)  
 - LinkedIn: [https://www.linkedin.com/in/artem-yaremchuk/](https://www.linkedin.com/in/artem-yaremchuk/)
