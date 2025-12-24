@@ -40,6 +40,7 @@ I'm a Full Stack Developer passionate about building impactful, real-world tech 
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-yellow?style=flat&logo=bcrypt&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white" />
@@ -61,6 +62,7 @@ I'm a Full Stack Developer passionate about building impactful, real-world tech 
   <img src="https://img.shields.io/badge/CORS-4A90E2?style=flat&logo=cors&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=flat&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=black" />
 </div>
 
 ### ⚙️ **Version Control & Deployment**  
@@ -76,6 +78,12 @@ I'm a Full Stack Developer passionate about building impactful, real-world tech 
 ### 🧪 **API Testing**  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</div>
+
+### 🔍 **Observability & Monitoring**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </div>
 
 ### 📚 **Other**  
